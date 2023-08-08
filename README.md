@@ -8,6 +8,17 @@
   - [Bike-Share Presentation(Google Slides)](https://docs.google.com/presentation/d/1SXjyLuNCBBa2vnWE2IGLTnhM8TayhBBV-f0Jo6ijnL0/edit?usp=sharing)
   - [Sources](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
+<h2> ⚒️ Technical Skills:</h2>
+
+- <b>Programs/ Programming Languages:</b>
+  - R
+  - Python
+  - JS
+  - SQl
+  - Tableau
+  - Excel / Google Sheets
+
+
 <h2> 🔗 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
