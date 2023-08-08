@@ -10,7 +10,7 @@
 
 <h2> ⚒️ Technical Skills:</h2>
 
-- <b>Programs/ Programming Languages:</b>
+- <b>👨‍💻Programs/ Programming Languages:</b>
   - R
   - Python
   - JS
